@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Zhonggen Li"
-author_profile: trredirect_from:
+author_profile: true
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -213,6 +214,15 @@ I am open to collaborations and internship opportunities in **AI infrastructure*
 
   <article class="publication-item">
     <div class="publication-heading">
+      <span class="venue-badge venue-vldb">VLDB J.</span>
+      <span class="publication-title">Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration</span>
+    </div>
+    <p class="publication-authors"><strong>Zhonggen Li</strong>, Xiangyu Ke, Yifan Zhu, Yunjun Gao, Feifei Li.</p>
+    <p class="publication-links">[ <a href="https://link.springer.com/article/10.1007/s00778-026-00974-8">Paper</a> | <a href="https://github.com/ZJU-DAILY/Legend">Code</a> ]</p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-heading">
       <span class="venue-badge venue-sigmod">SIGMOD</span>
       <span class="publication-title">Scalable Graph Indexing Using GPUs for Approximate Nearest Neighbor Search</span>
       <span class="award-badge">Accepted without Revision (4/1049)</span>
@@ -220,15 +230,6 @@ I am open to collaborations and internship opportunities in **AI infrastructure*
     </div>
     <p class="publication-authors"><strong>Zhonggen Li</strong>, Xiangyu Ke, Yifan Zhu, Bocheng Yu, Baihua Zheng, Yunjun Gao.</p>
     <p class="publication-links">[ <a href="https://dl.acm.org/doi/abs/10.1145/3769825">Paper</a> | <a href="https://github.com/ZJU-DAILY/Tagore">Code</a> ]</p>
-  </article>
-
-  <article class="publication-item">
-    <div class="publication-heading">
-      <span class="venue-badge venue-vldb">VLDB J.</span>
-      <span class="publication-title">Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration</span>
-    </div>
-    <p class="publication-authors"><strong>Zhonggen Li</strong>, Xiangyu Ke, Yifan Zhu, Yunjun Gao, Feifei Li.</p>
-    <p class="publication-links">[ <a href="https://link.springer.com/article/10.1007/s00778-026-00974-8">Paper</a> | <a href="https://github.com/ZJU-DAILY/Legend">Code</a> ]</p>
   </article>
 
   <article class="publication-item">
