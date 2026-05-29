@@ -25,6 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhonggen Li"
+  name_cn          : "李忠根"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student @ ZJU"
   location         : "Hangzhou, China"

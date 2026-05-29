@@ -192,6 +192,12 @@
   font-size: $type-size-5;
 }
 
+.author__name-cn {
+  font-family: KaiTi, STKaiti, "Kaiti SC", "楷体", serif;
+  font-weight: 400;
+  margin-left: 0.2em;
+}
+
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
