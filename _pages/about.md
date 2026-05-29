@@ -11,6 +11,7 @@ redirect_from:
   .home-page {
     --home-accent: #2f5fb3;
     --home-accent-soft: #eef4ff;
+    --home-accent-border: #9fb7e7;
     --home-border: #e6e8ef;
     --home-muted: #5f6673;
     --home-text: #252a31;
@@ -23,6 +24,7 @@ redirect_from:
   html[data-theme="dark"] .home-page {
     --home-accent: #8fb6ff;
     --home-accent-soft: #1f2c42;
+    --home-accent-border: #5f7fb8;
     --home-border: #384250;
     --home-muted: #b6beca;
     --home-text: #eef2f7;
@@ -97,10 +99,7 @@ redirect_from:
   }
 
   .publication-heading {
-    align-items: baseline;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 0.45rem;
+    display: block;
     line-height: 1.45;
     margin-bottom: 0.25rem;
   }
@@ -120,6 +119,8 @@ redirect_from:
 
   .venue-badge {
     color: #fff;
+    margin-right: 0.35rem;
+    vertical-align: baseline;
   }
 
   .venue-preprint { background: #6b7280; }
@@ -132,28 +133,35 @@ redirect_from:
     background: var(--home-highlight);
     border: 1px solid var(--home-highlight-border);
     color: var(--home-highlight-text);
+    margin-left: 0.35rem;
+    vertical-align: baseline;
   }
 
   .rank-badge {
     background: var(--home-accent-soft);
-    border: 1px solid color-mix(in srgb, var(--home-accent), transparent 55%);
+    border: 1px solid var(--home-accent-border);
     color: var(--home-accent);
+    margin-left: 0.25rem;
+    vertical-align: baseline;
   }
 
   .publication-title {
     color: var(--home-text);
+    display: inline;
     font-weight: 700;
   }
 
-  .publication-authors {
+  .publication-item .publication-authors {
     color: var(--home-muted);
     font-size: 0.94em;
-    margin: 0.25rem 0;
+    line-height: 1.45;
+    margin: 0.15rem 0 0;
   }
 
-  .publication-links {
+  .publication-item .publication-links {
     font-size: 0.9em;
-    margin: 0.25rem 0 0;
+    line-height: 1.35;
+    margin: 0.12rem 0 0;
   }
 
   .compact-list {
@@ -178,12 +186,12 @@ redirect_from:
 <div class="home-page" markdown="1">
 
 
-I am a third-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University (ZJU), advised by Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn). I received my B.E. degree from Harbin Institute of Technology (HIT) in June 2023, where I was advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Xiaoou Ding](https://homepage.hit.edu.cn/dingxiaoou).
+I am a third-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University (ZJU), advised by Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn). I received my B.E. degree from Harbin Institute of Technology (HIT) in June 2023, advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Xiaoou Ding](https://homepage.hit.edu.cn/dingxiaoou).
 
 
 ## Research Interests
 
-My research focuses on **AI and data systems** through the lens of **software-hardware co-design**.
+My research focuses on **AI and data systems** through the lens of **software-hardware co-design**, with a particular emphasis on co-optimizing algorithms with hardware such as CPUs, GPUs, NPUs, and NVMe SSDs.
 
 <div class="interest-grid">
   <div class="interest-item">
