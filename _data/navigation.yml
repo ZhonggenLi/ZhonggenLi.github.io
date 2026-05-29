@@ -9,13 +9,13 @@
 
 main:
   - title: "About"
-    url: /about/
+    url: "#top"
 
   - title: "Publications"
-    url: /publications/    
+    url: "#publications"    
 
   - title: "Awards"
-    url: /awards/    
+    url: "#awards"    
     
   # - title: "Portfolio"
   #   url: /portfolio/
