@@ -124,7 +124,8 @@ redirect_from:
   }
 
   .venue-preprint { background: #6b7280; }
-  .venue-vldb { background: #7c3aed; }
+  .venue-vldb { background: #0f766e; }
+  .venue-vldbj { background: #7c3aed; }
   .venue-jos { background: #2f855a; }
   .venue-sigmod { background: #4169e1; }
   .venue-icde { background: #b7791f; }
@@ -222,7 +223,16 @@ I am open to collaborations and internship opportunities in **AI infrastructure*
 
   <article class="publication-item">
     <div class="publication-heading">
-      <span class="venue-badge venue-vldb">VLDB J.</span>
+      <span class="venue-badge venue-vldb">VLDB</span>
+      <span class="publication-title">GPU-Accelerated 𝜂-threshold Decomposition for Uncertain Graphs</span>
+    </div>
+    <p class="publication-authors">Yu Chen, Chong Liu, Qing Liu, <strong>Zhonggen Li</strong>, Yifan Zhu, Yunjun Gao.</p>
+    <p class="publication-links">[ <a href="https://link.springer.com/article/10.1007/s00778-026-00974-8">Paper</a> | <a href="https://github.com/AbigailJixiangyuyu/uco-gpu">Code</a> ]</p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-heading">
+      <span class="venue-badge venue-vldbj">VLDB J.</span>
       <span class="publication-title">Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration</span>
     </div>
     <p class="publication-authors"><strong>Zhonggen Li</strong>, Xiangyu Ke, Yifan Zhu, Yunjun Gao, Feifei Li.</p>
