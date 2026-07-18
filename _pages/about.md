@@ -205,7 +205,7 @@ My research focuses on **AI and data systems** through the lens of **software-ha
   </div>
 </div>
 
-I am expected to graduate in 2028, and I am open to collaborations and internship opportunities in **AI infrastructure** and **efficient LLM training & inference**. Please feel free to contact me via [email](mailto:zglics@gmail.com).
+I am expected to graduate in 2028, and I am open to collaborations and internship opportunities in **AI infrastructure** and **efficient LLM training & inference**. Please feel free to contact me via [email](mailto:zgli@zju.edu.cn).
 
 ## <span id="publications">Publications</span>
 
