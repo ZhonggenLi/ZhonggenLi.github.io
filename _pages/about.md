@@ -209,6 +209,19 @@ I am expected to graduate in 2028, and I am open to collaborations and internshi
 
 ## <span id="publications">Publications</span>
 
+### <span class="publication-year">2027</span>
+
+<div class="publication-list">
+<article class="publication-item">
+    <div class="publication-heading">
+      <span class="venue-badge venue-sigmod">SIGMOD</span>
+      <span class="publication-title">All-in-One Graph-Based Indexing for Hybrid Search on GPUs</span>
+    </div>
+    <p class="publication-authors"><strong>Zhonggen Li</strong>, Yougen Li, Yifan Zhu, Congcong Ge, Guoteng Xu, Yunjun Gao.</p>
+    <p class="publication-links">[ <a href="https://arxiv.org/pdf/2511.00855">Paper</a> | <a href="https://github.com/ZJU-DAILY/Allan-Poe">Code</a> ]</p>
+  </article>
+  </div>
+
 ### <span class="publication-year">2026</span>
 
 <div class="publication-list">
@@ -263,15 +276,6 @@ I am expected to graduate in 2028, and I am open to collaborations and internshi
 ### <span class="publication-year">2025</span>
 
 <div class="publication-list">
-<article class="publication-item">
-    <div class="publication-heading">
-      <span class="venue-badge venue-preprint">Preprint</span>
-      <span class="publication-title">All-in-One Graph-Based Indexing for Hybrid Search on GPUs</span>
-    </div>
-    <p class="publication-authors"><strong>Zhonggen Li</strong>, Yougen Li, Yifan Zhu, Congcong Ge, Zhaoqiang Chen, Yunjun Gao.</p>
-    <p class="publication-links">[ <a href="https://arxiv.org/pdf/2511.00855">Paper</a> | <a href="https://github.com/ZJU-DAILY/Allan-Poe">Code</a> ]</p>
-  </article>
-
   <article class="publication-item">
     <div class="publication-heading">
       <span class="venue-badge venue-icde">ICDE</span>
