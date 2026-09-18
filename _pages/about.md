@@ -187,7 +187,7 @@ redirect_from:
 <div class="home-page" markdown="1">
 
 
-I am a third-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University (ZJU), advised by Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn). I received my B.E. degree from Harbin Institute of Technology (HIT) in June 2023, advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Xiaoou Ding](https://homepage.hit.edu.cn/dingxiaoou).
+I am a fourth-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University (ZJU), advised by Prof. [Yunjun Gao](https://person.zju.edu.cn/gaoyj_cn). I received my B.E. degree from Harbin Institute of Technology (HIT) in June 2023, advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Xiaoou Ding](https://homepage.hit.edu.cn/dingxiaoou).
 
 
 ## Research Interests
